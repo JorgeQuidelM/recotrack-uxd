@@ -7,7 +7,9 @@ User Experience Design for RecoTrack: A mobile application designed to provide r
   - [1.1. Understanding the Context](#11-understanding-the-context)
   - [1.2. Proposed Solution](#12-proposed-solution)
 - [2. Team & Roles](#2-team--roles)
-
+- [3. Strategy](#3-strategy)
+  - [3.1. Value Proposition Canvas](#31-value-proposition-canvas)
+  
 ---
 
 ## 1. Introduction
@@ -75,3 +77,13 @@ José Alonso - Project Manager
 Jorge Quidel - Designer
 
 Agustín Raposo - Analyst
+
+## 3. Strategy
+
+In this section, we define what the application aims to achieve and how it will deliver meaningful value to its target audience. Through the use of research-driven tools and design methodologies, we ensure that the solution is not only technically functional but also deeply aligned with the real needs, behaviors, and expectations of its users.
+
+### 3.1. Value Proposition Canvas
+
+To deepen our understanding of users and refine the value our solution delivers, we developed a Value Proposition Canvas. This tool helps us identify user tasks, pain points, and desired gains, and align them with specific features and benefits of the system to ensure our solution directly responds to those needs.
+
+![Value Proposition Canvas](./assets/value_proposition_canvas.png)
