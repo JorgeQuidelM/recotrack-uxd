@@ -81,9 +81,9 @@ Simple welcome and access through **login**, **register**, or **guest mode**.
 ### 🗺️ Maps and Location
 Real-time map with **route**, **truck position**, and **directions**.
 <p align="center">
-  <img src="./assets/map_general.png" width="360" alt="General Map" />
-  <img src="./assets/map_details.png" width="360" alt="Detailed Map" />
-  <img src="./assets/map_directions.png" width="360" alt="Map Directions" />
+  <img src="./assets/mapa_general.png" width="360" alt="General Map" />
+  <img src="./assets/mapa_detalles.png" width="360" alt="Detailed Map" />
+  <img src="./assets/mapa_indicaciones.png" width="360" alt="Map Directions" />
 </p>
 
 ### 🗓️ Calendar and Address
@@ -91,13 +91,13 @@ Displays **collection days** by sector and manages **home address**.
 <p align="center">
   <img src="./assets/calendar.png" width="360" alt="Calendar" />
   <img src="./assets/calendar_detail.png" width="360" alt="Calendar Detail" />
-  <img src="./assets/address.png" width="360" alt="Address" />
+  <img src="./assets/domicilio.png" width="360" alt="Address" />
 </p>
 
 ### 👤 Profile and Settings
 Profile management and **alert/map preferences**.
 <p align="center">
-  <img src="./assets/profile.png" width="360" alt="Profile" />
+  <img src="./assets/perfil.png" width="360" alt="Profile" />
   <img src="./assets/settings.png" width="360" alt="Settings" />
 </p>
 
