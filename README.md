@@ -68,41 +68,41 @@ Waste collection in Temuco suffers from a **lack of real-time information**, lea
 
 ---
 
-## 📲 Wireframes Funcionales (Low‑Fi)
+## 📲 Functional Wireframes (Low-Fi)
 
-### 🏠 Inicio y Autenticación
-Bienvenida simple y acceso mediante **iniciar sesión**, **registrarse** o **modo invitado**.
+### 🏠 Home and Authentication
+Simple welcome and access through **login**, **register**, or **guest mode**.
 <p align="center">
   <img src="./assets/welcome.png" width="360" alt="Welcome" />
   <img src="./assets/login.png" width="360" alt="Login" />
   <img src="./assets/register.png" width="360" alt="Register" />
 </p>
 
-### 🗺️ Mapas y Localización
-Mapa en tiempo real con **ruta**, **posición del camión** e **indicaciones**.
+### 🗺️ Maps and Location
+Real-time map with **route**, **truck position**, and **directions**.
 <p align="center">
-  <img src="./assets/mapa_general.png" width="360" alt="Mapa General" />
-  <img src="./assets/mapa_detalles.png" width="360" alt="Mapa Detalles" />
-  <img src="./assets/mapa_indicaciones.png" width="360" alt="Mapa Indicaciones" />
+  <img src="./assets/map_general.png" width="360" alt="General Map" />
+  <img src="./assets/map_details.png" width="360" alt="Detailed Map" />
+  <img src="./assets/map_directions.png" width="360" alt="Map Directions" />
 </p>
 
-### 🗓️ Calendario y Domicilio
-Consulta de **días de recolección** por sector y administración del **domicilio**.
+### 🗓️ Calendar and Address
+Displays **collection days** by sector and manages **home address**.
 <p align="center">
-  <img src="./assets/calendar.png" width="360" alt="Calendario" />
-  <img src="./assets/calendar_detail.png" width="360" alt="Calendario Detalle" />
-  <img src="./assets/domicilio.png" width="360" alt="Domicilio" />
+  <img src="./assets/calendar.png" width="360" alt="Calendar" />
+  <img src="./assets/calendar_detail.png" width="360" alt="Calendar Detail" />
+  <img src="./assets/address.png" width="360" alt="Address" />
 </p>
 
-### 👤 Perfil y Ajustes
-Gestión de perfil y **preferencias de alerta/mapa**.
+### 👤 Profile and Settings
+Profile management and **alert/map preferences**.
 <p align="center">
-  <img src="./assets/perfil.png" width="360" alt="Perfil" />
+  <img src="./assets/profile.png" width="360" alt="Profile" />
   <img src="./assets/settings.png" width="360" alt="Settings" />
 </p>
 
 ### 🌱 Ecotips
-Educación ambiental: tips, guía para reciclar y contactos.
+Environmental education: tips, recycling guides, and contact details.
 <p align="center">
   <img src="./assets/ecotips.png" width="360" alt="Ecotips" />
   <img src="./assets/ecotips_1.png" width="360" alt="Ecotips 1" />
@@ -112,45 +112,45 @@ Educación ambiental: tips, guía para reciclar y contactos.
 
 ---
 
-## 🔄 Evolución de Interfaces
-- Área del **mapa** ampliada por demanda de visibilidad.
-- **Permisos** explicados antes de solicitar GPS/Notificaciones.
-- **Modo invitado** para reducir fricción inicial.
-- **Presets de alerta** 5/15/30/60 min.
-- **Retiro especial** agregado por necesidad vecinal.
+## 🔄 Interface Evolution
+- Expanded **map area** for better visibility.  
+- **Permissions** explained before requesting GPS/Notifications.  
+- Added **guest mode** to reduce onboarding friction.  
+- **Alert presets** at 5/15/30/60 minutes.  
+- **Special pickup** feature included based on community requests.
 
 ---
 
-## 🎨 Alta Fidelidad – Prototipo Final
+## 🎨 High-Fidelity Prototype
 
-### 🟢 Inicio y Acceso
+### 🟢 Onboarding and Access
 <p align="center">
-  <img src="./assets/aea6e15c-a49f-4d57-84de-51c3664fb3fd.png" width="360" alt="Welcome HiFi" />
-  <img src="./assets/12c9f4c9-f9a9-4208-9ca7-6785517db524.png" width="360" alt="Login HiFi" />
-  <img src="./assets/ce8ab91c-96c6-4fc6-8465-d2970f2fe3b6.png" width="360" alt="Register HiFi" />
+  <img src="./assets/aea6e15c-a49f-4d57-84de-51c3664fb3fd.png" width="360" alt="Welcome Hi-Fi" />
+  <img src="./assets/12c9f4c9-f9a9-4208-9ca7-6785517db524.png" width="360" alt="Login Hi-Fi" />
+  <img src="./assets/ce8ab91c-96c6-4fc6-8465-d2970f2fe3b6.png" width="360" alt="Register Hi-Fi" />
 </p>
 
-### 🗺️ Mapa y Navegación
+### 🗺️ Map and Navigation
 <p align="center">
-  <img src="./assets/19d0e6bd-ddf7-4a5b-87ee-7fde8509ace2.png" width="360" alt="Mapa HiFi 1" />
-  <img src="./assets/484a1230-eadd-4eb2-a718-69f1b98639c7.png" width="360" alt="Mapa HiFi 2" />
+  <img src="./assets/19d0e6bd-ddf7-4a5b-87ee-7fde8509ace2.png" width="360" alt="Map Hi-Fi 1" />
+  <img src="./assets/484a1230-eadd-4eb2-a718-69f1b98639c7.png" width="360" alt="Map Hi-Fi 2" />
 </p>
 
-### 🕓 Horarios de Recolección
+### 🕓 Collection Schedules
 <p align="center">
-  <img src="./assets/6941bc3b-e5f8-47b9-a0a8-36c8e8611a74.png" width="360" alt="Horarios HiFi" />
+  <img src="./assets/6941bc3b-e5f8-47b9-a0a8-36c8e8611a74.png" width="360" alt="Schedule Hi-Fi" />
 </p>
 
-### 👤 Perfil y Configuración
+### 👤 Profile and Configuration
 <p align="center">
-  <img src="./assets/810acbd4-69c9-4cc0-936d-e81c43d5c87e.png" width="360" alt="Perfil HiFi" />
-  <img src="./assets/d00468e5-f11b-4bf4-a1c4-c6f014e64f6d.png" width="360" alt="Settings HiFi" />
+  <img src="./assets/810acbd4-69c9-4cc0-936d-e81c43d5c87e.png" width="360" alt="Profile Hi-Fi" />
+  <img src="./assets/d00468e5-f11b-4bf4-a1c4-c6f014e64f6d.png" width="360" alt="Settings Hi-Fi" />
 </p>
 
 ### ♻️ Ecotips
 <p align="center">
-  <img src="./assets/3b666645-fec2-4295-904d-e5f6495d4e4b.png" width="360" alt="Ecotips Home HiFi" />
-  <img src="./assets/d0818c4d-cd20-4198-a03e-3eb42d406619.png" width="360" alt="Ecotips Detalle HiFi" />
+  <img src="./assets/3b666645-fec2-4295-904d-e5f6495d4e4b.png" width="360" alt="Ecotips Home Hi-Fi" />
+  <img src="./assets/d0818c4d-cd20-4198-a03e-3eb42d406619.png" width="360" alt="Ecotips Detail Hi-Fi" />
 </p>
 
 ---
