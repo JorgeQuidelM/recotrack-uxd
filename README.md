@@ -139,16 +139,20 @@ Environmental education: tips, recycling guides, and contact details.
 ### 🕓 Collection Schedules
 <p align="center">
   <img src="./assets/6941bc3b-e5f8-47b9-a0a8-36c8e8611a74.png" width="360" alt="Schedule Hi-Fi" />
+  <p align="center"><img src="./assets/4d16af94-aecd-47a0-a989-95a2fd491bf1.png" width="360" alt=""/>
+  <p align="center"><img src="./assets/f3a458aa-f446-4dc7-b415-7b6c7802ff58.png" width="360" alt=""/>
 </p>
 
 ### 👤 Profile and Configuration
 <p align="center">
   <img src="./assets/810acbd4-69c9-4cc0-936d-e81c43d5c87e.png" width="360" alt="Profile Hi-Fi" />
-  <img src="./assets/d00468e5-f11b-4bf4-a1c4-c6f014e64f6d.png" width="360" alt="Settings Hi-Fi" />
+  <img src="./assets/d0818c4d-cd20-4198-a03e-3eb42d406619.png" width="360" alt="Ecotips Detail Hi-Fi" />
+  
 </p>
 
 ### ♻️ Ecotips
 <p align="center">
+  <img src="./assets/d00468e5-f11b-4bf4-a1c4-c6f014e64f6d.png" width="360" alt="" />
   <img src="./assets/3b666645-fec2-4295-904d-e5f6495d4e4b.png" width="360" alt="Ecotips Home Hi-Fi" />
   <img src="./assets/d0818c4d-cd20-4198-a03e-3eb42d406619.png" width="360" alt="Ecotips Detail Hi-Fi" />
 </p>
