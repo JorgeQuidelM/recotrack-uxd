@@ -27,11 +27,11 @@ Waste collection in Temuco suffers from a **lack of real-time information**, lea
 
 ## 👷 Team & Roles
 
-Jorge Quidel - Project Manager & Presenter
-
-José Alonso - Designer
-
-Agustín Raposo - Analyst
+| Member | Role |
+|---|---|
+| **Jorge Quidel** | Project Manager & Presenter |
+| **José Alonso** | UX/UI Designer |
+| **Agustín Raposo** | UX Research & Analysis |
 
 ---
 
