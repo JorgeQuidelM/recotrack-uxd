@@ -102,13 +102,13 @@ Displays **collection days** by sector and manages **home address**.
 <p align="center">
   <img src="./assets/calendar.png" width="360" alt="Calendar" />
   <img src="./assets/calendar_detail.png" width="360" alt="Calendar Detail" />
-  <img src="./assets/domicilio.png" width="360" alt="Address" />
 </p>
 
 ### 👤 Profile and Settings
 Profile management and **alert/map preferences**.
 <p align="center">
   <img src="./assets/perfil.png" width="360" alt="Profile" />
+  <img src="./assets/domicilio.png" width="360" alt="Address" />
   <img src="./assets/settings.png" width="360" alt="Settings" />
 </p>
 
@@ -157,8 +157,8 @@ Environmental education: tips, recycling guides, and contact details.
 ### 👤 Profile and Configuration
 <p align="center">
   <img src="./assets/810acbd4-69c9-4cc0-936d-e81c43d5c87e.png" width="360" alt="Profile Hi-Fi" />
-  <img src="./assets/d0818c4d-cd20-4198-a03e-3eb42d406619.png" width="360" alt="Ecotips Detail Hi-Fi" />
-  <img src="./assets/a3fc7439-ea3f-4e65-b18c-26905df831b4.png" width="360" alt=""/></p>
+  <img src="./assets/a3fc7439-ea3f-4e65-b18c-26905df831b4.png" width="360" alt="" />
+  <img src="./assets/d0818c4d-cd20-4198-a03e-3eb42d406619.png" width="360" alt="" />
 </p>
 
 ### ♻️ Ecotips
