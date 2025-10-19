@@ -158,7 +158,7 @@ Environmental education: tips, recycling guides, and contact details.
 <p align="center">
   <img src="./assets/810acbd4-69c9-4cc0-936d-e81c43d5c87e.png" width="360" alt="Profile Hi-Fi" />
   <img src="./assets/d0818c4d-cd20-4198-a03e-3eb42d406619.png" width="360" alt="Ecotips Detail Hi-Fi" />
-  
+  <img src="./assets/a3fc7439-ea3f-4e65-b18c-26905df831b4.png" width="360" alt=""/></p>
 </p>
 
 ### ♻️ Ecotips
