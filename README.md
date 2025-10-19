@@ -7,7 +7,7 @@ User Experience Design (UXD) for **RecoTrack**, a mobile application created to 
 ## 📖 Index
 - [🏁 Introduction](#-introduction)
 - [🎯 UX Strategy](#-ux-strategy)
-- [👷🏻‍♂️ Team & Roles](#-team--roles)
+- [👷 Team & Roles](#-team--roles)
 - [💡 Research and UX Elements](#-research-and-ux-elements)
 - [🧩 Benchmark](#-benchmark)
 - [👥 Personas](#-personas)
@@ -25,7 +25,7 @@ Waste collection in Temuco suffers from a **lack of real-time information**, lea
 
 ---
 
-## 👷🏻‍♂️ Team & Roles
+## 👷 Team & Roles
 
 Jorge Quidel - Project Manager & Presenter
 
