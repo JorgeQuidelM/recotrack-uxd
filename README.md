@@ -137,7 +137,7 @@ Environmental education: tips, recycling guides, and contact details.
 ### 🟢 Onboarding and Access
 <p align="center">
   <img src="./assets/aea6e15c-a49f-4d57-84de-51c3664fb3fd.png" width="360" alt="Welcome Hi-Fi" />
-  <img src="./assets/12c9f4c9-f9a9-4208-9ca7-6785517db524.png" width="360" alt="Login Hi-Fi" />
+  <img src="./assets/image.png" width="360" alt="Login Hi-Fi" />
   <img src="./assets/ce8ab91c-96c6-4fc6-8465-d2970f2fe3b6.png" width="360" alt="Register Hi-Fi" />
 </p>
 
@@ -150,8 +150,8 @@ Environmental education: tips, recycling guides, and contact details.
 ### 🕓 Collection Schedules
 <p align="center">
   <img src="./assets/6941bc3b-e5f8-47b9-a0a8-36c8e8611a74.png" width="360" alt="Schedule Hi-Fi" />
-  <p align="center"><img src="./assets/4d16af94-aecd-47a0-a989-95a2fd491bf1.png" width="360" alt=""/>
-  <p align="center"><img src="./assets/f3a458aa-f446-4dc7-b415-7b6c7802ff58.png" width="360" alt=""/>
+  <img src="./assets/4d16af94-aecd-47a0-a989-95a2fd491bf1.png" width="360" alt=""/>
+  <img src="./assets/f3a458aa-f446-4dc7-b415-7b6c7802ff58.png" width="360" alt=""/>
 </p>
 
 ### 👤 Profile and Configuration
@@ -165,7 +165,8 @@ Environmental education: tips, recycling guides, and contact details.
 <p align="center">
   <img src="./assets/d00468e5-f11b-4bf4-a1c4-c6f014e64f6d.png" width="360" alt="" />
   <img src="./assets/3b666645-fec2-4295-904d-e5f6495d4e4b.png" width="360" alt="Ecotips Home Hi-Fi" />
-  <img src="./assets/d0818c4d-cd20-4198-a03e-3eb42d406619.png" width="360" alt="Ecotips Detail Hi-Fi" />
+  <img src="./assets/d7462648-6811-4a19-8dd8-0d0db6069694.png" width="360" alt=""/></p>
+  <img src="./assets/0b93a1fb-4c1f-4f0c-be32-674428c45695.png" width="360" alt=""/></p>
 </p>
 
 ---
