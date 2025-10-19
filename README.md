@@ -7,6 +7,7 @@ User Experience Design (UXD) for **RecoTrack**, a mobile application created to 
 ## 📖 Index
 - [🏁 Introduction](#-introduction)
 - [🎯 UX Strategy](#-ux-strategy)
+- [👷🏻‍♂️ Team and Roles](#-team-and-roles)
 - [💡 Research and UX Elements](#-research-and-ux-elements)
 - [🧩 Benchmark](#-benchmark)
 - [👥 Personas](#-personas)
@@ -21,6 +22,16 @@ User Experience Design (UXD) for **RecoTrack**, a mobile application created to 
 
 ## 🏁 Introduction
 Waste collection in Temuco suffers from a **lack of real-time information**, leading to garbage accumulation and uncertainty in households. **RecoTrack** provides visibility of truck routes, neighborhood reminders, and recycling guidance.
+
+---
+
+## 👷🏻‍♂️ Team & Roles
+
+Jorge Quidel - Project Manager & Presenter
+
+José Alonso - Designer
+
+Agustín Raposo - Analyst
 
 ---
 
