@@ -7,7 +7,7 @@ User Experience Design (UXD) for **RecoTrack**, a mobile application created to 
 ## 📖 Index
 - [🏁 Introduction](#-introduction)
 - [🎯 UX Strategy](#-ux-strategy)
-- [👷🏻‍♂️ Team and Roles](#-team-and-roles)
+- [👷🏻‍♂️ Team & Roles](#-team--roles)
 - [💡 Research and UX Elements](#-research-and-ux-elements)
 - [🧩 Benchmark](#-benchmark)
 - [👥 Personas](#-personas)
