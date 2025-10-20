@@ -105,7 +105,7 @@ Real-time map with **route**, **truck position**, and **directions**.
 </p>
 
 ### 🗓️ Calendar and Address
-Displays **collection days** by sector and manages **home address**.
+Displays **collection days** by sector.
 <p align="center">
   <img src="./assets/calendar.png" width="360" alt="Calendar" />
   <img src="./assets/calendar_detail.png" width="360" alt="Calendar Detail" />
