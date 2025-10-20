@@ -16,6 +16,7 @@ User Experience Design (UXD) for **RecoTrack**, a mobile application created to 
 - [📲 Functional Wireframes (Low-Fi)](#-functional-wireframes-low-fi)
 - [🔄 Interface Evolution](#-interface-evolution)
 - [🎨 High-Fidelity Prototype](#-high-fidelity-prototype)
+- [🔗 Resources](#-resources)
 - [📜 License](#-license)
 
 ---
@@ -180,6 +181,12 @@ This category focuses on promoting environmental awareness and sustainable habit
   <img src="./assets/d7462648-6811-4a19-8dd8-0d0db6069694.png" width="360" alt=""/>
   <img src="./assets/0b93a1fb-4c1f-4f0c-be32-674428c45695.png" width="360" alt=""/>
 </p>
+
+---
+
+## 🔗 Resources
+
+Figma Wireframe & Prototype: [RecoTrack](https://www.figma.com/design/LT7WAZXoFXdRK8uyBaTN49/RecoTrack)
 
 ---
 
