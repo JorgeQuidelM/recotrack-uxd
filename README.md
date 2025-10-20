@@ -104,14 +104,14 @@ Real-time map with **route**, **truck position**, and **directions**.
   <img src="./assets/mapa_indicaciones.png" width="360" alt="Map Directions" />
 </p>
 
-### 🗓️ Calendar and Address
+### 🗓️ Calendar
 Displays **collection days** by sector.
 <p align="center">
   <img src="./assets/calendar.png" width="360" alt="Calendar" />
   <img src="./assets/calendar_detail.png" width="360" alt="Calendar Detail" />
 </p>
 
-### 👤 Profile and Settings
+### 👤 Profile, Address and Settings
 Profile management and **alert/map preferences**.
 <p align="center">
   <img src="./assets/perfil.png" width="360" alt="Profile" />
