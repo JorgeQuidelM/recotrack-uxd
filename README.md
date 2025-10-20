@@ -145,7 +145,7 @@ Environmental education: tips, recycling guides, and contact details.
 ### 🟢 Onboarding and Access
 This category presents the initial user flow of RecoTrack, including the welcome, login, and registration screens. It allows users to quickly access the app—either by signing in, creating an account, or entering as guests—ensuring a smooth and intuitive start to the experience.
 <p align="center">
-  <img src="./assets/init.png" width="360" alt="" />
+  <img src="./assets/Init.png" width="360" alt="" />
   <img src="./assets/Login.png" width="360" alt="" />
   <img src="./assets/Register.png" width="360" alt="" />
 </p>
