@@ -145,9 +145,9 @@ Environmental education: tips, recycling guides, and contact details.
 ### 🟢 Onboarding and Access
 This category presents the initial user flow of RecoTrack, including the welcome, login, and registration screens. It allows users to quickly access the app—either by signing in, creating an account, or entering as guests—ensuring a smooth and intuitive start to the experience.
 <p align="center">
-  <img src="./assets/aea6e15c-a49f-4d57-84de-51c3664fb3fd.png" width="360" alt="Welcome Hi-Fi" />
-  <img src="./assets/image.png" width="360" alt="Login Hi-Fi" />
-  <img src="./assets/ce8ab91c-96c6-4fc6-8465-d2970f2fe3b6.png" width="360" alt="Register Hi-Fi" />
+  <img src="./assets/init.png" width="360" alt="" />
+  <img src="./assets/Login.png" width="360" alt="" />
+  <img src="./assets/Register.png" width="360" alt="" />
 </p>
 
 ### 🗺️ Map and Navigation
@@ -160,9 +160,10 @@ This category displays the navigation system that guides users to their waste co
 ### 🕓 Collection Schedules
 This category presents the weekly garbage collection schedules organized by neighborhood sectors. Each screen displays the route and the specific collection days for each zone, allowing users to easily check when and where waste pickup will occur. The visual layout combines maps with clear time slots, helping users plan their waste disposal efficiently and stay aligned with their local collection timetable.
 <p align="center">
-  <img src="./assets/6941bc3b-e5f8-47b9-a0a8-36c8e8611a74.png" width="360" alt="Schedule Hi-Fi" />
-  <img src="./assets/4d16af94-aecd-47a0-a989-95a2fd491bf1.png" width="360" alt=""/>
-  <img src="./assets/f3a458aa-f446-4dc7-b415-7b6c7802ff58.png" width="360" alt=""/>
+  <img src="./assets/Calendar.png" width="360" alt="Schedule Hi-Fi" />
+  <img src="./assets/CalendarDetail.png" width="360" alt=""/>
+  <img src="./assets/CalendarDetail2.png" width="360" alt=""/>
+  <img src="./assets/CalendarDetail3.png" width="360" alt=""/>
 </p>
 
 ### 👤 Profile and Configuration
@@ -176,10 +177,10 @@ This category showcases the user’s personal profile and customizable settings 
 ### ♻️ Ecotips
 This category focuses on promoting environmental awareness and sustainable habits among users. It includes practical advice on managing household waste, recycling correctly, and reducing disposable product use. Through sections like “How to Recycle” and “Managing My Waste,” users can explore step-by-step eco-friendly practices. Additionally, the “Contact Us” section connects users with RecoTrack and local institutions, reinforcing collaboration toward a cleaner and more sustainable community.
 <p align="center">
-  <img src="./assets/d00468e5-f11b-4bf4-a1c4-c6f014e64f6d.png" width="360" alt="" />
-  <img src="./assets/3b666645-fec2-4295-904d-e5f6495d4e4b.png" width="360" alt="Ecotips Home Hi-Fi" />
-  <img src="./assets/d7462648-6811-4a19-8dd8-0d0db6069694.png" width="360" alt=""/>
-  <img src="./assets/0b93a1fb-4c1f-4f0c-be32-674428c45695.png" width="360" alt=""/>
+  <img src="./assets/Ecotips.png" width="360" alt="" />
+  <img src="./assets/Ecotips2.png" width="360" alt="Ecotips Home Hi-Fi" />
+  <img src="./assets/Ecotips3.png" width="360" alt=""/>
+  <img src="./assets/Contact.png" width="360" alt=""/>
 </p>
 
 ---
