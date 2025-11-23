@@ -22,7 +22,46 @@ User Experience Design (UXD) for **RecoTrack**, a mobile application created to 
 ---
 
 ## 🏁 Introduction
-Waste collection in Temuco suffers from a **lack of real-time information**, leading to garbage accumulation and uncertainty in households. **RecoTrack** provides visibility of truck routes, neighborhood reminders, and recycling guidance.
+
+### 1.1. Understanding the Context
+
+In Temuco, garbage collection is scheduled on different days and at specific times across the various sectors of the city. Although information regarding these collection routes is available, it remains limited and does not account for service delays, early arrivals, or other potential disruptions.
+
+As a consequence, residents are often left uncertain about the precise arrival time of collection trucks, which commonly results in two situations:
+
+- Residents place their waste outside too early, leaving it exposed on the streets for extended periods
+- Residents fail to put out their waste in time, leading to the accumulation of garbage within their homes
+
+---
+### 1.2. Proposed Solution
+
+To address these challenges, we have proposed the development of a mobile application called **RecoTrack**, which enables residents of Temuco to track garbage collection trucks in real time and receive notifications when a truck is approaching their sector. This solution will allow residents to anticipate collection schedules, manage waste disposal more efficiently, and minimize unnecessary accumulation.
+
+#### 📍 Real-Time Route Visualization
+
+- Interactive city map showing garbage truck routes live
+- Personalized route display tailored to the user's selected sector
+- Integrated schedule details that enables users to anticipate service days and plan waste disposal accordingly
+
+#### 🔔 Smart Notifications for Waste Disposal
+
+- Alerts sent 5, 15, 30, or 60 minutes before truck arrival
+- Notifications for garbage truck arrivals, recycling points, and temporary containers
+- Reduces waste accumulation and improves collection efficiency
+- Requires GPS, location access, and notification permissions
+
+### ♻️ Recycling and Container Integration
+
+- Map includes locations for recycling plastics, glass, batteries, and more
+- Map also displays temporary container points requested from the municipality, with availability dates and times
+- Route generation and directions to nearest recycling stations or active temporal containers
+- Promotes proper waste separation and reduces contamination
+
+### 📡 GPS-Based Truck Tracking
+
+- Mobile GPS devices installed in trucks
+- Enables accurate location data and predictive route modeling
+- Supports dynamic scheduling and operational optimization
 
 ---
 
