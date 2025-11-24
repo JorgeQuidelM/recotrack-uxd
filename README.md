@@ -261,7 +261,7 @@ Following the development of the high‑fidelity prototype, a heuristic evaluati
 
 ---
 
-## 🎨 Improved Prorotype
+## 🎨 Improved Prototype
 
 ### Home and Widget
 On the home screen, a widget can display relevant information such as the garbage truck’s current location or the next scheduled pickup.
