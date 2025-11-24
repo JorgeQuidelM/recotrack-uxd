@@ -329,6 +329,8 @@ Since the accounts feature was removed, this section now focuses on general sett
 
 Figma Wireframe & Prototype: [RecoTrack](https://www.figma.com/design/LT7WAZXoFXdRK8uyBaTN49/RecoTrack)
 
+Final UI: [RecoTrack UI](https://drive.google.com/file/d/1DY5YIOw-2K9OJInCBwGeeXWS_nBp3VPv/view?usp=sharing)
+
 ---
 
 ## 📜 License
