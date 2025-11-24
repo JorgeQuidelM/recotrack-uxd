@@ -261,6 +261,70 @@ Following the development of the high‑fidelity prototype, a heuristic evaluati
 
 ---
 
+## 🎨 Improved Prorotype
+
+### Home and Widget
+On the home screen, a widget can display relevant information such as the garbage truck’s current location or the next scheduled pickup.
+<p align="center">
+  <img src="./assets/home.png" width="360" alt="Widget before pickup" />
+  <img src="./assets/home-2.png" width="360" alt="Widget after pickup" />
+</p>
+
+### 🟢 Onboarding and Access
+After the splash screen, the application takes the user directly to the address entry screen. Once the address is entered, the user can access the application.
+<p align="center">
+  <img src="./assets/splash.png" width="360" alt="Splash screen" />
+  <img src="./assets/address.png" width="360" alt="Insert address" />
+  <img src="./assets/address-2.png" width="360" alt="Confirm address" />
+</p>
+
+### 🎓 Tutorial
+Before gaining full access, the application presents a quick tutorial explaining how the maps work.
+<p align="center">
+  <img src="./assets/tutorial.png" width="360" alt="Tutorial part 1" />
+  <img src="./assets/tutorial-2.png" width="360" alt="Tutorial part 2" />
+  <img src="./assets/tutorial-3.png" width="360" alt="Tutorial part 3" />
+</p>
+
+### 🗺️ Map and Navigation
+The application displays not only recycling points but also temporary containers nearby, providing directions to both types of locations from the user’s current position. It also stores app notifications for later access.
+
+<p align="center">
+  <img src="./assets/map.png" width="360" alt="Map Hi-Fi 1" />
+  <img src="./assets/map-2.png" width="360" alt="Map Hi-Fi 2" />
+  <img src="./assets/map-3.png" width="360" alt="Map Hi-Fi 2" />
+</p>
+
+### 🕓 Collection Routes
+The application provides detailed information about the different garbage collection routes in Temuco. A search bar and filters allow for more refined searches, and users can also view details about the stops along each route and the collection schedule.
+
+<p align="center">
+  <img src="./assets/routes.png" width="360" alt="Routes" />
+  <img src="./assets/filters.png" width="360" alt="Filters" />
+  <img src="./assets/routes-2.png" width="360" alt="Routes Detail"/>
+</p>
+
+### ♻️ Ecotips
+The content of these sections was rearranged to improve readability and comprehension.
+<p align="center">
+  <img src="./assets/ecotips.png" width="360" alt="Ecotips" />
+  <img src="./assets/ecotips-2.png" width="360" alt="Ecotips content part 1" />
+  <img src="./assets/ecotips-3.png" width="360" alt="Ecotips content part 2"/>
+  <img src="./assets/ecotips-4.png" width="360" alt="Ecotips content part 3"/>
+  <img src="./assets/ecotips-5.png" width="360" alt="Ecotips recycling"/>
+  <img src="./assets/contacts.png" width="360" alt="Contact us"/>
+</p>
+
+### ⚙️ Settings
+Since the accounts feature was removed, this section now focuses on general settings for the map and notifications.
+<p align="center">
+  <img src="./assets/settings.png" width="360" alt="Settings" />
+  <img src="./assets/settings-2.png" width="360" alt="Map settings" />
+  <img src="./assets/settings-3.png" width="360" alt="Alerts settings" />
+</p>
+
+---
+
 ## 🔗 Resources
 
 Figma Wireframe & Prototype: [RecoTrack](https://www.figma.com/design/LT7WAZXoFXdRK8uyBaTN49/RecoTrack)
