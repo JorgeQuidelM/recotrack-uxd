@@ -235,7 +235,9 @@ Following the development of the high‑fidelity prototype, a heuristic evaluati
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | User account registration was unjustified, as the experience did not require persistent information storage. | The user account functionality was removed. Instead, the application only stores the address provided by the user. |
 
-![Heuristic Evaluation Navbar](./assets/heuristic-ev-1.png)
+<p>
+  <img src="./assets/heuristic-ev-1.png" width="360" alt="Heuristic Evaluation 1" />
+</p>
 
 ---
 
@@ -243,7 +245,9 @@ Following the development of the high‑fidelity prototype, a heuristic evaluati
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Ambiguity in the schedule format: the representation used for the details of a route created multiple uncertainties. | The schedule format was enhanced to include additional details such as the month, exact collection time, and information about each stop. |
 
-![Heuristic Evaluation Progress Bar](./assets/heuristic-ev-2.png)
+<p>
+  <img src="./assets/heuristic-ev-2.png" width="360" alt="Heuristic Evaluation 2" />
+</p>
 
 ---
 
@@ -251,8 +255,9 @@ Following the development of the high‑fidelity prototype, a heuristic evaluati
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Missing standard usability controls in critical flows. Common icons and buttons were absent, and the option “Search your address on the map” was not presented as a clear button. | Added explicit buttons and dedicated sections for entering and selecting the address on the map. |
 
-
-![Heuristic Evaluation Progress Bar](./assets/heuristic-ev-3.png)
+<p>
+  <img src="./assets/heuristic-ev-3.png" width="360" alt="Heuristic Evaluation 3" />
+</p>
 
 ---
 
