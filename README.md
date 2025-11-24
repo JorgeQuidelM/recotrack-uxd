@@ -16,6 +16,7 @@ User Experience Design (UXD) for **RecoTrack**, a mobile application created to 
 - [📲 Functional Wireframes (Low-Fi)](#-functional-wireframes-low-fi)
 - [🔄 Interface Evolution](#-interface-evolution)
 - [🎨 High-Fidelity Prototype](#-high-fidelity-prototype)
+- [🩺 Heuristic Evaluation](#-heuristic-evaluation)
 - [🔗 Resources](#-resources)
 - [📜 License](#-license)
 
@@ -221,6 +222,37 @@ This category focuses on promoting environmental awareness and sustainable habit
   <img src="./assets/Ecotips3.png" width="360" alt=""/>
   <img src="./assets/Contact.png" width="360" alt=""/>
 </p>
+
+---
+
+## 🩺 Heuristic Evaluation
+
+Following the development of the high‑fidelity prototype, a heuristic evaluation was performed on the interfaces. This process revealed several usability shortcomings, primarily stemming from inconsistencies in interface elements, and resulted in an average SUS score of 60, which is considered below the acceptable benchmark. In response, the design of the final UI version prioritized resolving the most significant issues identified during the evaluation.
+
+---
+
+| **Problem**                                                  | **Solution**                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| User account registration was unjustified, as the experience did not require persistent information storage. | The user account functionality was removed. Instead, the application only stores the address provided by the user. |
+
+![Heuristic Evaluation Navbar](./assets/heuristic-ev-1.png)
+
+---
+
+| **Problem**                                                  | **Solution**                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Ambiguity in the schedule format: the representation used for the details of a route created multiple uncertainties. | The schedule format was enhanced to include additional details such as the month, exact collection time, and information about each stop. |
+
+![Heuristic Evaluation Progress Bar](./assets/heuristic-ev-2.png)
+
+---
+
+| **Problem**                                                  | **Solution**                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Missing standard usability controls in critical flows. Common icons and buttons were absent, and the option “Search your address on the map” was not presented as a clear button. | Added explicit buttons and dedicated sections for entering and selecting the address on the map. |
+
+
+![Heuristic Evaluation Progress Bar](./assets/heuristic-ev-3.png)
 
 ---
 
